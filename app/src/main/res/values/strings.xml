@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BasicAndroid</string>
+
+    <string name="edt_message_hint">Type something here</string>
+    <string name="btn_show_text">Show message</string>
+
+    <string name="tv_title">Basic Android</string>
+    <string name="btn_test1_text">Test 1</string>
+    <string name="btn_test2_test">Test 2 (Simple Counter)</string>
+
+
+</resources>
